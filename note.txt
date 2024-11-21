@@ -1,0 +1,9 @@
+--- Đẩy code từ local lên remote
+
+
+
+
++reponsitory local: source code trong máy tính
+
++reponsitory remote: source lưu trên github
+
